@@ -10,3 +10,6 @@ Kode ini dipergunakan untuk menyelesaikan jenjang studi S1 Sarjana Teknik/Comput
 
 
 Training Model Faster RCNN Mangrove, This code just dummy dataset you must adjust your dataset using Application Robotflow  for labeling and download format coco json
+
+# Specification
+I am Training using google colab 
